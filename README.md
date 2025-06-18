@@ -43,7 +43,4 @@ npm install
 npm run start-all
 ```
 
-## 📌 Upcoming
-- Mobile version
-- Notifications
-- Analytics
+
